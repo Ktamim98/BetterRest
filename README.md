@@ -1,6 +1,9 @@
 # BetterRest
 A simple sleep calculator app that helps users determine the ideal bedtime based on their desired amount of sleep, wake-up time, and daily coffee intake. This app is built with SwiftUI and CoreML.
 
+
+https://github.com/Ktamim98/BetterRest/assets/124142522/d1d524f8-5eea-4bae-ba5b-211823f70677
+
 ## Features
 - Set wake-up time using a DatePicker
 - Set desired amount of sleep using a Stepper
